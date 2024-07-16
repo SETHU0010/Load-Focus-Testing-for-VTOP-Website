@@ -1,7 +1,6 @@
-# Load-Focus-Testing-for-VTOP-Website
+# Load Focus Testing for VTOP Website
 Comprehensive Performance and Load Analysis
 
-![Load Focus](https://example.com/logo.png) <!-- Replace with actual logo URL -->
 
 **Load Focus** is a SaaS platform for automated web and mobile app testing. It offers tools for load testing, performance monitoring, UI testing, and more.
 
